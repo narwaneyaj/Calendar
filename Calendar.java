@@ -1,7 +1,3 @@
-/* This class/program prints a calendar for any given month and year
-@author Aditi Narwaney 
-@date June 24, 2016 */ 
-
 import java.util.Scanner;	
 public class Calendar
 {
